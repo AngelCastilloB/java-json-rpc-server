@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.arteam:simple-json-rpc-server:1.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/arteam/simple-json-rpc-server/1.2/simple-json-rpc-server-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/arteam/simple-json-rpc-server/1.2/simple-json-rpc-server-1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/arteam/simple-json-rpc-server/1.2/simple-json-rpc-server-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
